@@ -22,7 +22,7 @@ Feel free to visit and explore the site.
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=vscode,linux,git,github,vercel,figma,docker" />
+<img src="https://skillicons.dev/icons?i=vscode,linux,docker,git,github,vercel,figma" />
 
 ### in practice
 <img src="https://skillicons.dev/icons?i=python,fastapi" />
