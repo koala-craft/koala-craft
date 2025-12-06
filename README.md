@@ -14,14 +14,10 @@ Feel free to visit and explore the site.
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=php,java" />
-
-### Styling
 <img src="https://skillicons.dev/icons?i=html,css,js,jquery" />
 
-### DB
+### Backend & DB
+<img src="https://skillicons.dev/icons?i=php,java" />
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 
 ### Tools
