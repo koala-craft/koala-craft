@@ -1,7 +1,7 @@
 # 🪄 Hi, I'm **Kinomiya-Dai** 
 Frontend/Backend Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=noto&color=blue)![GitHub followers](https://img.shields.io/github/followers/noto?label=Followers&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=noto&color=blue)　![GitHub followers](https://img.shields.io/github/followers/noto?label=Followers&style=social)
 
 ## 🔥 Feature Working
 ### 🌐 Portfolio Site — My project showcase
