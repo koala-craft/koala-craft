@@ -1,16 +1,43 @@
-## Hi there 👋
+# 🪄 Hi, I'm **Kinomiya-Dai** — Creative Frontend/Backend Engineer
 
-<!--
-**Kinomiya-Dai/Kinomiya-Dai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Feature Working
+### 🌐 Portfolio Site — My project showcase
+👉 **https://portfolio-site-qhcc.vercel.app/**  
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I aimed to create a clear, easy-to-use website.
+Feel free to visit and explore the site.
+
+
+## 🔧 Skills & Tools
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=php,java" />
+
+### Styling
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery" />
+
+### DB
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=vscode,linux,git,github,vercel,figma,docker" />
+
+### in practice
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
+
+
+## 🎯 Near-Future Goals
+
+ - Build 2–3 new web apps for my portfolio
+ - Strengthen backend fundamentals with Python frameworks and Go
+ - Try TanStack Start
+ = Improve understanding of state management, SSR/SSG/SPA
+ - Experiment with Vue / Nuxt when possible
+ - Create an app with local LLM integration in Python
+
+
