@@ -20,7 +20,7 @@ Feel free to visit and explore the site.
 <img src="https://skillicons.dev/icons?i=html,css,js,jquery" />
 
 ### Backend & DB
-<img src="https://skillicons.dev/icons?i=php,java" />
+<img src="https://skillicons.dev/icons?i=php,java,spring,nodejs" />
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 
 ### Tools
