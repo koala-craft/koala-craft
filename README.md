@@ -30,4 +30,7 @@ Feel free to visit and explore the site.
 ### in practice
 <img src="https://skillicons.dev/icons?i=python,fastapi" />
 
+![ProfileDetailsCard](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koala-craft&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koala-craft&theme=default)
+
 
