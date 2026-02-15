@@ -1,13 +1,13 @@
-# 🪄 Hi, I'm **koala-craft** 
+# Hi, I'm **koala-craft** 
 Frontend/Backend Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=noto&color=blue)　![GitHub followers](https://img.shields.io/github/followers/noto?label=Followers&style=social)
 
-## 🔥 Feature Working
-### 🌐 Portfolio Site — My project showcase
-👉 **https://portfolio-site-qhcc.vercel.app/**  
-　　👇アップデートしました！2026/02/15  
-　　　**https://koala-craft-blog.vercel.app/**  
+## Feature Working
+### Portfolio Site — My project showcase
+**https://portfolio-site-qhcc.vercel.app/**  
+↓アップデートしました[2026/02/15]  
+**https://koala-craft-blog.vercel.app/**  
 
 <br />
 
@@ -30,15 +30,5 @@ Feel free to visit and explore the site.
 
 ### in practice
 <img src="https://skillicons.dev/icons?i=python,fastapi" />
-
-
-## 🎯 Near-Future Goals
-
- - Build 2–3 new web apps for my portfolio
- - Strengthen backend fundamentals with Python frameworks and Go
- - Try TanStack Start
- = Improve understanding of state management, SSR/SSG/SPA
- - Experiment with Vue / Nuxt when possible
- - Create an app with local LLM integration in Python
 
 
