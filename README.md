@@ -6,8 +6,8 @@ Frontend/Backend Engineer
 ## 🔥 Feature Working
 ### 🌐 Portfolio Site — My project showcase
 👉 **https://portfolio-site-qhcc.vercel.app/**  
-　　👇アップデートしました！2026/02/15
-  **[https://portfolio-site-qhcc.vercel.app](https://koala-craft-blog.vercel.app/)/**  
+　　👇アップデートしました！2026/02/15  
+　　　**[https://portfolio-site-qhcc.vercel.app/](https://koala-craft-blog.vercel.app/)/**  
 
 <br />
 
